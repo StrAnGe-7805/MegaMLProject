@@ -41,9 +41,19 @@ In Object Detection
 A step by step series of examples that tell you how to get a development env running
 
 ```
-git clone 
+git clone https://github.com/StrAnGe-7805/MegaMLProject.git
+```
+
+Frontend libraries Installation
+```
 cd frontend
 npm install
+```
+
+Backend Libraries Installation
+```
+cd Backend
+pip install requirements.txt
 ```
 
 ### Running the application (locally)
