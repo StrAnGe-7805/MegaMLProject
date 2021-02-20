@@ -10,7 +10,7 @@ Image classification is divided into 3 parts.
 - custom Image classifier - user can train his own custom Image classification model just by uploading images into desired classes, and can evaluate the trained model by uploading images.
 
 ### Object Detection
-In Object Detection 
+In Object Detection user can detect objects present in an Image just by uploading the image. This Object Detection is done using a ML model developed using Tensorflow-ObjectDetection API.
 
 ## Client
 
