@@ -53,7 +53,7 @@ npm install
 Backend Libraries Installation
 ```
 cd Backend
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Running the application (locally)
